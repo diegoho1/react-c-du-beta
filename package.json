@@ -15,11 +15,17 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegoho1/react-c-du-beta"
+  },
   "peerDependencies": {
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
   },
   "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
     "@babel/core": "^7.24.4",
     "@babel/preset-env": "^7.24.4",
     "@babel/preset-react": "^7.24.1",
