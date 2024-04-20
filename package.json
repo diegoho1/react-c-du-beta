@@ -20,8 +20,8 @@
     "url": "https://github.com/diegoho1/react-c-du-beta"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
