@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import CalenduModal from "./CalenduModal";
-import "./../../react-calendu.css";
+import "./../react-calendu.css";
 
 export default function CallToActionButton({
   url,

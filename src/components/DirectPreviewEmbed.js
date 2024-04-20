@@ -1,7 +1,7 @@
 //SOLO SIRVE PARA PREVIEW DE SPACE, NO DE ROUTING FORMS NI OTM
 import React, { useState, useEffect, useRef } from "react";
 import { StructureFinalUrl } from "../helpers/helpers";
-import "./../../react-calendu.css";
+import "./../react-calendu.css";
 
 export default function DirectPreviewEmbed({
   url,

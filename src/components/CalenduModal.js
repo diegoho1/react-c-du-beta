@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom";
 import { StructureFinalUrl } from "../helpers/helpers";
-import "./../../react-calendu.css";
+import "./../react-calendu.css";
 
 export default function CalenduModal({
   isModalOpen,

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { StructureFinalUrl } from "../helpers/helpers";
-import "./../../react-calendu.css";
+import "./../react-calendu.css";
 
 export default function DirectEmbed({
   url,

@@ -33,4 +33,7 @@ module.exports = {
       },
     ],
   },
+  externals: {
+    react: "react", //prevent two react apps
+  },
 };

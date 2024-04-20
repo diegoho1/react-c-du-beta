@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import CalenduModal from "./CalenduModal";
-import "./../../react-calendu.css";
+import "./../react-calendu.css";
 
 export default function InlineText({
   url,
